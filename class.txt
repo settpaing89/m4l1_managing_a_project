@@ -1,8 +1,9 @@
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
+Charcoal
 Ivory
 Khaki
 Coral
